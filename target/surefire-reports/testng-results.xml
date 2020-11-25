@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestPlan" duration-ms="40569" started-at="2020-11-25T17:25:08 CLST" finished-at="2020-11-25T17:25:48 CLST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="40569" started-at="2020-11-25T17:25:08 CLST" finished-at="2020-11-25T17:25:48 CLST">
+      <class name="TestPlan">
+        <test-method status="PASS" signature="submitForm()[pri:0, instance:TestPlan@1a5a4e19]" name="submitForm" duration-ms="36916" started-at="2020-11-25T17:25:11 CLST" finished-at="2020-11-25T17:25:48 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:TestPlan@1a5a4e19]" name="cleanUp" is-config="true" duration-ms="868" started-at="2020-11-25T17:25:49 CLST" finished-at="2020-11-25T17:25:50 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- TestPlan -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestPlan -->
+</testng-results>

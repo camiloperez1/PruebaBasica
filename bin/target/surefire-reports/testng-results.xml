@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="24787" started-at="2020-11-25T15:50:22 CLST" finished-at="2020-11-25T15:50:47 CLST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="24787" started-at="2020-11-25T15:50:22 CLST" finished-at="2020-11-25T15:50:47 CLST">
+      <class name="TestPlan">
+        <test-method status="PASS" signature="submitForm()[pri:0, instance:TestPlan@242b836]" name="submitForm" duration-ms="24761" started-at="2020-11-25T15:50:22 CLST" finished-at="2020-11-25T15:50:47 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:TestPlan@242b836]" name="cleanUp" is-config="true" duration-ms="4561" started-at="2020-11-25T15:50:47 CLST" finished-at="2020-11-25T15:50:52 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- TestPlan -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
