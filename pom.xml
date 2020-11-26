@@ -11,7 +11,11 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 563c234522840ae8ce0822c9f539a9040c8ca2ca
     <build>
         <plugins>
             <plugin>
@@ -26,7 +30,11 @@
             </plugin>
         </plugins>
     </build>
+<<<<<<< HEAD
     
+=======
+         
+>>>>>>> 563c234522840ae8ce0822c9f539a9040c8ca2ca
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
