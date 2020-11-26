@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="19252" started-at="2020-11-26T13:42:03 CLST" finished-at="2020-11-26T13:42:23 CLST">
+  <suite name="Surefire suite" duration-ms="39972" started-at="2020-11-26T14:24:49 CLST" finished-at="2020-11-26T14:25:29 CLST">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="19252" started-at="2020-11-26T13:42:03 CLST" finished-at="2020-11-26T13:42:23 CLST">
+    <test name="Surefire test" duration-ms="39972" started-at="2020-11-26T14:24:49 CLST" finished-at="2020-11-26T14:25:29 CLST">
       <class name="TestPlan">
-        <test-method status="PASS" signature="submitForm()[pri:0, instance:TestPlan@17d919b6]" name="submitForm" duration-ms="19072" started-at="2020-11-26T13:42:03 CLST" finished-at="2020-11-26T13:42:23 CLST">
+        <test-method status="PASS" signature="submitForm()[pri:0, instance:TestPlan@17d919b6]" name="submitForm" duration-ms="39936" started-at="2020-11-26T14:24:49 CLST" finished-at="2020-11-26T14:25:29 CLST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submitForm -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:TestPlan@17d919b6]" name="cleanUp" is-config="true" duration-ms="327" started-at="2020-11-26T13:42:23 CLST" finished-at="2020-11-26T13:42:23 CLST">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:TestPlan@17d919b6]" name="cleanUp" is-config="true" duration-ms="434" started-at="2020-11-26T14:25:29 CLST" finished-at="2020-11-26T14:25:29 CLST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->

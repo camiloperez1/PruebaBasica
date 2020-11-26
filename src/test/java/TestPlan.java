@@ -20,7 +20,9 @@ public class TestPlan {
         WebForm webForm = new WebForm(driver);
         webForm.enterFirstName();
         webForm.enterLastName();
+        Thread.sleep(10000);
         webForm.pressSubmitButton();
+        Thread.sleep(10000);
     }
 
     @AfterSuite
