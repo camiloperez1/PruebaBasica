@@ -1,4 +1,4 @@
-# Created at 2020-11-25T22:51:13.899
+# Created at 2020-11-27T17:40:31.793
 org.testng.TestNGException: 
 TestNG by default disables loading DTD from unsecured Urls. If you need to explicitly load the DTD from a http url, please do so by using the JVM argument [-Dtestng.dtd.http=true]
 	at org.testng.xml.TestNGContentHandler.resolveEntity(TestNGContentHandler.java:115)
